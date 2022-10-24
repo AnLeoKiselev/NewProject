@@ -37,7 +37,7 @@ class ViewController: UIViewController {
         label.rightAnchor.constraint(equalTo: view.rightAnchor, constant: -100).isActive = true
         label.topAnchor.constraint(equalTo: view.topAnchor, constant: 100).isActive = true
         label.bottomAnchor.constraint(equalTo: view.bottomAnchor, constant: -100).isActive = true
-        // 4. Настраиваешь constraints ///
+        // 4. Настраиваешь constraints /// and test
     }
 }
 
